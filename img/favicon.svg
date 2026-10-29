@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <circle cx="60" cy="60" r="57" fill="#0B3B5F" stroke="#FFFFFF" stroke-width="3" stroke-dasharray="6 3"/>
+  <circle cx="60" cy="60" r="46" fill="#0B3B5F" stroke="#FFFFFF" stroke-width="3.5"/>
+  <!-- Anchor Ring -->
+  <circle cx="60" cy="31" r="8.5" fill="none" stroke="#FFFFFF" stroke-width="4.5"/>
+  <!-- Anchor Shank & Crossbar -->
+  <path d="M60 39.5 V88 M41 51 H79" stroke="#FFFFFF" stroke-width="6.5" stroke-linecap="round"/>
+  <circle cx="39" cy="51" r="3.5" fill="#FFFFFF"/>
+  <circle cx="81" cy="51" r="3.5" fill="#FFFFFF"/>
+  <!-- Anchor Flukes / Arms -->
+  <path d="M31 68 C34 84 46 91 60 93 C74 91 86 84 89 68" fill="none" stroke="#FFFFFF" stroke-width="6.5" stroke-linecap="round"/>
+  <path d="M27 72 L32 62 L39 71 Z M93 72 L88 62 L81 71 Z M54 91 L60 99 L66 91 Z" fill="#FFFFFF"/>
+  <!-- Nautical Rope -->
+  <path d="M64 26 C76 34 74 47 60 56 C46 65 46 77 62 84" fill="none" stroke="#19C8C2" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,11 @@
+﻿{
+  "name": "Nala Turismo · Passeios de Barco, Lancha & Jeep em Paraty",
+  "short_name": "Nala Turismo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06233B",
+  "theme_color": "#0B3B5F",
+  "icons": [
+    { "src": "img/logo-nala-oficial.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
